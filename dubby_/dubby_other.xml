@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+  <baseInfo>
+    <new type=object objectName="math" funcAvailible=true />
+    <new type=object objectName="html" funcAvailible=true />
+    <new type=object objectName="misc" funcAvailible=null funcFound=false />
+    <new type=math-method methodLocation="../../nova.js" isReal_File=true />
+    </baseInfo>
+ 
+     <firstFloor>
+       <new type=object objectName="" funcAvailible=objectNotExact::400 />
+        <dubbyText
+          <dubby:addText::addFont=gill+sans textContent="" id="test" /> <setIdAsNotVisible id="test">
+           setTextObject=true />
