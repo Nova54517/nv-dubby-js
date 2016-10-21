@@ -1,0 +1,26 @@
+{
+  "username":"guest",
+  "currentVersion":"1.0.2"
+}
+
+ controlPanel:{
+   "object.math":true,
+   "object.html":true,
+   "object.misc":null,
+ }
+ 
+ errorCodes:{
+  "Function not responding":100,
+  "Function Disabled":101,
+  "Object not found":102,
+  "Dubby not added":103,
+  "Dubby Crash":104,
+  "HTML Error":105,
+  "Mild Glitch":250,
+  "Medium Glitch":251,
+  "Severe Glitch":252,
+  "Dubby Shut Down":303,
+  "Function not found":400,
+  "Code not found":404;
+ }
+ 
